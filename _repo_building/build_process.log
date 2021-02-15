@@ -1,0 +1,371 @@
+C:\dev\SMW-repo-builder>"c:\dev\SMW-repo-builder\venv\Scripts\python.exe" -u "c:\dev\SMW-repo-builder\main.py"
+load_directory_list...
+R:\SMW-CI-Test                 ... loading ...
+R:\SMW-CI-Test                : file SMWCharacterImport_before_new_algo.rar
+SMWCharacterImport\.vs\SMWCharacterImport\v14\.suo                                                                       (newest file)
+SMWCharacterImport\Library\assetDatabase3                                                                                (newest directory)
+SMWCharacterImport\Assets\Editor\ImportSingleCharacterWindow.cs                                                          (FILTERED: newest file)
+SMWCharacterImport\Assets\Textures\skins\specialSkins                                                                    (FILTERED: newest directory)
+R:\SMW-CI-Test\SMWCharacterImport_before_new_algo.rar: file RAR
+R:\SMW-CI-Test                : file SMWCharacterImport_ChangeColor_works(pngNamingBug).rar
+SMWCharacterImport\.vs\SMWCharacterImport\v14\.suo                                                                       (newest file)
+SMWCharacterImport\Library\assetDatabase3                                                                                (newest directory)
+SMWCharacterImport\Assets\Editor\ImportSingleCharacterWindow.cs                                                          (FILTERED: newest file)
+SMWCharacterImport\Assets\Textures\skins\specialSkins                                                                    (FILTERED: newest directory)
+R:\SMW-CI-Test\SMWCharacterImport_ChangeColor_works(pngNamingBug).rar: file RAR
+R:\SMW-CI-Test                : file SMWCharacterImport_CleanUp+Enhancement.rar
+SMWCharacterImport\.vs\SMWCharacterImport\v14\.suo                                                                       (newest file)
+SMWCharacterImport\Library\assetDatabase3                                                                                (newest directory)
+SMWCharacterImport\Assets\Editor\BatchImport.cs                                                                          (FILTERED: newest file)
+SMWCharacterImport\Assets\Textures\skins                                                                                 (FILTERED: newest directory)
+R:\SMW-CI-Test\SMWCharacterImport_CleanUp+Enhancement.rar: file RAR
+R:\SMW-CI-Test                : file SMWCharacterImport_NamingFix_Tileset+Map_Migration.rar
+SMWCharacterImport\.vs\SMWCharacterImport\v14\.suo                                                                       (newest file)
+SMWCharacterImport\Library\assetDatabase3                                                                                (newest directory)
+SMWCharacterImport\Assets\Code\SMW\Editor.meta                                                                           (FILTERED: newest file)
+SMWCharacterImport\Assets\Code\SMW\Import\Character\Editor                                                               (FILTERED: newest directory)
+R:\SMW-CI-Test\SMWCharacterImport_NamingFix_Tileset+Map_Migration.rar: file RAR
+R:\SMW-CI-Test                : file SMWCharacterImport_ramstein_no0.rar
+SMWCharacterImport\.vs\SMWCharacterImport\v14\.suo                                                                       (newest file)
+SMWCharacterImport\Library\assetDatabase3                                                                                (newest directory)
+SMWCharacterImport\Assets\Blubb\New Tileset.asset                                                                        (FILTERED: newest file)
+SMWCharacterImport\Assets\Code\SMW\Import\Character\Editor                                                               (FILTERED: newest directory)
+R:\SMW-CI-Test\SMWCharacterImport_ramstein_no0.rar: file RAR
+R:\SMW-CI-Test                : file SMWCharacterImport_ramstein_no1.rar
+SMWCharacterImport\.vs\SMWCharacterImport\v14\.suo                                                                       (newest file)
+SMWCharacterImport\Library\assetDatabase3                                                                                (newest directory)
+SMWCharacterImport\Assets\Code\SMW\Import\Tileset\Editor\TilesetWindow.cs                                                (FILTERED: newest file)
+SMWCharacterImport\Assets\Code\SMW\Import\Tileset\Editor                                                                 (FILTERED: newest directory)
+R:\SMW-CI-Test\SMWCharacterImport_ramstein_no1.rar: file RAR
+R:\SMW-CI-Test                : file SMWCharacterImport_ramstein_no2_improved_tileset_import_andOther.rar
+SMWCharacterImport\Assets\Code\SMW\Import\Map\Hazards.cs                                                                 (newest file)
+SMWCharacterImport\Library\assetDatabase3                                                                                (newest directory)
+SMWCharacterImport\Assets\Code\SMW\Import\Map\Hazards.cs                                                                 (FILTERED: newest file)
+SMWCharacterImport\Assets\Code\SMW\Import\Tileset\Editor                                                                 (FILTERED: newest directory)
+R:\SMW-CI-Test\SMWCharacterImport_ramstein_no2_improved_tileset_import_andOther.rar: file RAR
+R:\SMW-CI-Test                : file SMWCharacterImport_ramstein_no3_improved_hazardmanager_IMPORT_BGs.rar
+SMWCharacterImport\Assembly-CSharp-Editor.csproj                                                                         (newest file)
+SMWCharacterImport\Library\assetDatabase3                                                                                (newest directory)
+SMWCharacterImport\Assembly-CSharp-Editor.csproj                                                                         (FILTERED: newest file)
+SMWCharacterImport\Assets\Code\SMW\Import\Hazard\Editor                                                                  (FILTERED: newest directory)
+R:\SMW-CI-Test\SMWCharacterImport_ramstein_no3_improved_hazardmanager_IMPORT_BGs.rar: file RAR
+R:\SMW-CI-Test                : file SMWCharacterImport_ramstein_no4_layer_singletonmanager.rar
+SMWCharacterImport\Assembly-CSharp-Editor.csproj                                                                         (newest file)
+SMWCharacterImport\Library\assetDatabase3                                                                                (newest directory)
+SMWCharacterImport\Assembly-CSharp-Editor.csproj                                                                         (FILTERED: newest file)
+SMWCharacterImport\Assets\Code\SMW\Import\Map\Editor                                                                     (FILTERED: newest directory)
+R:\SMW-CI-Test\SMWCharacterImport_ramstein_no4_layer_singletonmanager.rar: file RAR
+R:\SMW-CI-Test                : file SMWCharacterImport_ramstein_no5_ZERO_warning.rar
+SMWCharacterImport\Assets\Code\SMW\Import\Map\Editor\MapPreviewWindow.cs                                                 (newest file)
+SMWCharacterImport\Library\assetDatabase3                                                                                (newest directory)
+SMWCharacterImport\Assets\Code\SMW\Import\Map\Editor\MapPreviewWindow.cs                                                 (FILTERED: newest file)
+SMWCharacterImport\Assets\Code\SMW\Import\Map\Editor                                                                     (FILTERED: newest directory)
+R:\SMW-CI-Test\SMWCharacterImport_ramstein_no5_ZERO_warning.rar: file RAR
+R:\SMW-CI-Test                : file SMWCharacterImport_ReadyToMigrateInRealProject.rar
+SMWCharacterImport\.vs\SMWCharacterImport\v14\.suo                                                                       (newest file)
+SMWCharacterImport\Library\assetDatabase3                                                                                (newest directory)
+SMWCharacterImport\4639b1d6c770960469ccc5bf4944ea670smw_red_ARGB32_.png                                                  (FILTERED: newest file)
+SMWCharacterImport\Assets\Textures\skins                                                                                 (FILTERED: newest directory)
+R:\SMW-CI-Test\SMWCharacterImport_ReadyToMigrateInRealProject.rar: file RAR
+R:\SMW-CI-Test                : file SMWCharacterImport_struktured.rar
+SMWCharacterImport\.vs\SMWCharacterImport\v14\.suo                                                                       (newest file)
+SMWCharacterImport\Library\assetDatabase3                                                                                (newest directory)
+SMWCharacterImport\Assets\Editor\BatchImport.cs                                                                          (FILTERED: newest file)
+SMWCharacterImport\Assets\Textures\skins                                                                                 (FILTERED: newest directory)
+R:\SMW-CI-Test\SMWCharacterImport_struktured.rar: file RAR
+
+project_list_stats...
+project_list_stats, show non rar files = True
+SMWCharacterImport_before_new_algo.rar 1455052129.0                                                                                  -- SMWCharacterImport_before_new_algo.rar
+SMWCharacterImport_ChangeColor_works(pngNamingBug).rar 1455057917.0                                                                                  -- SMWCharacterImport_ChangeColor_works(pngNamingBug).rar
+SMWCharacterImport_CleanUp+Enhancement.rar 1455740125.0                                                                                  -- SMWCharacterImport_CleanUp+Enhancement.rar
+SMWCharacterImport_NamingFix_Tileset+Map_Migration.rar 1455762996.0                                                                                  -- SMWCharacterImport_NamingFix_Tileset+Map_Migration.rar
+SMWCharacterImport_ramstein_no0.rar 1455927586.0                                                                                  -- SMWCharacterImport_ramstein_no0.rar
+SMWCharacterImport_ramstein_no1.rar 1456092065.0                                                                                  -- SMWCharacterImport_ramstein_no1.rar
+SMWCharacterImport_ramstein_no2_improved_tileset_import_andOther.rar 1456489531.0                                                                                  -- SMWCharacterImport_ramstein_no2_improved_tileset_import_andOther.rar
+SMWCharacterImport_ramstein_no3_improved_hazardmanager_IMPORT_BGs.rar 1456499753.0                                                                                  -- SMWCharacterImport_ramstein_no3_improved_hazardmanager_IMPORT_BGs.rar
+SMWCharacterImport_ramstein_no4_layer_singletonmanager.rar 1456621431.0                                                                                  -- SMWCharacterImport_ramstein_no4_layer_singletonmanager.rar
+SMWCharacterImport_ramstein_no5_ZERO_warning.rar 1456753385.0                                                                                  -- SMWCharacterImport_ramstein_no5_ZERO_warning.rar   
+SMWCharacterImport_ReadyToMigrateInRealProject.rar 1455748041.0                                                                                  -- SMWCharacterImport_ReadyToMigrateInRealProject.rar
+SMWCharacterImport_struktured.rar 1455731831.0                                                                                  -- SMWCharacterImport_struktured.rar
+num of projects: 12
+num of rar-files: 12
+AUTO MODE
+FORCED STOP AFTER DB INIT (continue with 'y')y
+
+show RAR content: root elements
+num_of_rar_files              : 12
+
+RAR global_rar_root_elements (all projects summarized)
+        SMWCharacterImport
+
+RAR root elements folders/files by project
+file                                                                                                                               root folder                                             amount of 
+root Elements
+SMWCharacterImport_before_new_algo.rar                                                                                             SMWCharacterImport                                      1
+SMWCharacterImport_ChangeColor_works(pngNamingBug).rar                                                                             SMWCharacterImport                                      1
+SMWCharacterImport_struktured.rar                                                                                                  SMWCharacterImport                                      1
+SMWCharacterImport_CleanUp+Enhancement.rar                                                                                         SMWCharacterImport                                      1
+SMWCharacterImport_ReadyToMigrateInRealProject.rar                                                                                 SMWCharacterImport                                      1
+SMWCharacterImport_NamingFix_Tileset+Map_Migration.rar                                                                             SMWCharacterImport                                      1
+SMWCharacterImport_ramstein_no0.rar                                                                                                SMWCharacterImport                                      1
+SMWCharacterImport_ramstein_no1.rar                                                                                                SMWCharacterImport                                      1
+SMWCharacterImport_ramstein_no2_improved_tileset_import_andOther.rar                                                               SMWCharacterImport                                      1
+SMWCharacterImport_ramstein_no3_improved_hazardmanager_IMPORT_BGs.rar                                                              SMWCharacterImport                                      1
+SMWCharacterImport_ramstein_no4_layer_singletonmanager.rar                                                                         SMWCharacterImport                                      1
+SMWCharacterImport_ramstein_no5_ZERO_warning.rar                                                                                   SMWCharacterImport                                      1
+AUTO MODE
+AUTO MODE
+FORCED STOP BEFORE WORKFLOW STARTS (continue with 'y')y
+R:\extractTest                                     ... is folder and exists
+R:\repoTest
+repo didn't exists, create folder and init repo ...
+git init
+copy .gitignore
+
+Starting with workflow of 12 projects...
+
+ 1  /12  ... SMWCharacterImport_before_new_algo.rar             ... extracting
+rm R:\repoTest -r -e:.git .gitignore
+exclusions: ['.git', '.gitignore']
+exclusions found .git
+exclusions found .gitignore
+filtered_members 77 / 503 are going to get extracted...
+extract (use_filter=True) R:\SMW-CI-Test\SMWCharacterImport_before_new_algo.rar ------> .... rarf.extractall .... R:\extractTest)
+cd to extracted project folder
+R:\extractTest\SMWCharacterImport_before_new_algo exists? True
+find_project_repo_level in R:\extractTest\SMWCharacterImport_before_new_algo
+frozenset()
+frozenset({'SMWCharacterImport'})
+--- R:\extractTest\SMWCharacterImport_before_new_algo\SMWCharacterImport : is repo base dir
+git add .
+is_dirty: Changes detected.
+--allow-empty -m "SMWCharacterImport_before_new_algo.rar" --date "Tue, 09 Feb 2016 22:08:49 +0100"
+
+ 2  /12  ... SMWCharacterImport_ChangeColor_works(pngNamingBug).rar ... extracting
+rm R:\repoTest -r -e:.git .gitignore
+exclusions: ['.git', '.gitignore']
+exclusions found .git
+exclusions found .gitignore
+filtered_members 193 / 735 are going to get extracted...
+extract (use_filter=True) R:\SMW-CI-Test\SMWCharacterImport_ChangeColor_works(pngNamingBug).rar ------> .... rarf.extractall .... R:\extractTest)
+cd to extracted project folder
+R:\extractTest\SMWCharacterImport_ChangeColor_works(pngNamingBug) exists? True
+find_project_repo_level in R:\extractTest\SMWCharacterImport_ChangeColor_works(pngNamingBug)
+frozenset()
+frozenset({'SMWCharacterImport'})
+--- R:\extractTest\SMWCharacterImport_ChangeColor_works(pngNamingBug)\SMWCharacterImport : is repo base dir
+git add .
+is_dirty: Changes detected.
+--allow-empty -m "SMWCharacterImport_ChangeColor_works(pngNamingBug).rar" --date "Tue, 09 Feb 2016 23:45:17 +0100"
+
+ 3  /12  ... SMWCharacterImport_struktured.rar                  ... extracting
+rm R:\repoTest -r -e:.git .gitignore
+exclusions: ['.git', '.gitignore']
+exclusions found .git
+exclusions found .gitignore
+filtered_members 1529 / 3405 are going to get extracted...
+extract (use_filter=True) R:\SMW-CI-Test\SMWCharacterImport_struktured.rar ------> .... rarf.extractall .... R:\extractTest)
+cd to extracted project folder
+R:\extractTest\SMWCharacterImport_struktured exists? True
+find_project_repo_level in R:\extractTest\SMWCharacterImport_struktured
+frozenset()
+frozenset({'SMWCharacterImport'})
+--- R:\extractTest\SMWCharacterImport_struktured\SMWCharacterImport : is repo base dir
+git add .
+is_dirty: Changes detected.
+--allow-empty -m "SMWCharacterImport_struktured.rar" --date "Wed, 17 Feb 2016 18:57:11 +0100"
+
+ 4  /12  ... SMWCharacterImport_CleanUp+Enhancement.rar         ... extracting
+rm R:\repoTest -r -e:.git .gitignore
+exclusions: ['.git', '.gitignore']
+exclusions found .git
+exclusions found .gitignore
+filtered_members 1521 / 3389 are going to get extracted...
+extract (use_filter=True) R:\SMW-CI-Test\SMWCharacterImport_CleanUp+Enhancement.rar ------> .... rarf.extractall .... R:\extractTest)
+cd to extracted project folder
+R:\extractTest\SMWCharacterImport_CleanUp+Enhancement exists? True
+find_project_repo_level in R:\extractTest\SMWCharacterImport_CleanUp+Enhancement
+frozenset()
+frozenset({'SMWCharacterImport'})
+--- R:\extractTest\SMWCharacterImport_CleanUp+Enhancement\SMWCharacterImport : is repo base dir
+git add .
+is_dirty: Changes detected.
+--allow-empty -m "SMWCharacterImport_CleanUp+Enhancement.rar" --date "Wed, 17 Feb 2016 21:15:25 +0100"
+
+ 5  /12  ... SMWCharacterImport_ReadyToMigrateInRealProject.rar ... extracting
+rm R:\repoTest -r -e:.git .gitignore
+exclusions: ['.git', '.gitignore']
+exclusions found .git
+exclusions found .gitignore
+filtered_members 1502 / 3350 are going to get extracted...
+extract (use_filter=True) R:\SMW-CI-Test\SMWCharacterImport_ReadyToMigrateInRealProject.rar ------> .... rarf.extractall .... R:\extractTest)
+cd to extracted project folder
+R:\extractTest\SMWCharacterImport_ReadyToMigrateInRealProject exists? True
+find_project_repo_level in R:\extractTest\SMWCharacterImport_ReadyToMigrateInRealProject
+frozenset()
+frozenset({'SMWCharacterImport'})
+--- R:\extractTest\SMWCharacterImport_ReadyToMigrateInRealProject\SMWCharacterImport : is repo base dir
+git add .
+is_dirty: Changes detected.
+--allow-empty -m "SMWCharacterImport_ReadyToMigrateInRealProject.rar" --date "Wed, 17 Feb 2016 23:27:21 +0100"
+
+ 6  /12  ... SMWCharacterImport_NamingFix_Tileset+Map_Migration.rar ... extracting
+rm R:\repoTest -r -e:.git .gitignore
+exclusions: ['.git', '.gitignore']
+exclusions found .git
+exclusions found .gitignore
+filtered_members 422 / 1192 are going to get extracted...
+extract (use_filter=True) R:\SMW-CI-Test\SMWCharacterImport_NamingFix_Tileset+Map_Migration.rar ------> .... rarf.extractall .... R:\extractTest)
+cd to extracted project folder
+R:\extractTest\SMWCharacterImport_NamingFix_Tileset+Map_Migration exists? True
+find_project_repo_level in R:\extractTest\SMWCharacterImport_NamingFix_Tileset+Map_Migration
+frozenset()
+frozenset({'SMWCharacterImport'})
+--- R:\extractTest\SMWCharacterImport_NamingFix_Tileset+Map_Migration\SMWCharacterImport : is repo base dir
+git add .
+is_dirty: Changes detected.
+--allow-empty -m "SMWCharacterImport_NamingFix_Tileset+Map_Migration.rar" --date "Thu, 18 Feb 2016 03:36:36 +0100"
+
+ 7  /12  ... SMWCharacterImport_ramstein_no0.rar                ... extracting
+rm R:\repoTest -r -e:.git .gitignore
+exclusions: ['.git', '.gitignore']
+exclusions found .git
+exclusions found .gitignore
+filtered_members 444 / 1236 are going to get extracted...
+extract (use_filter=True) R:\SMW-CI-Test\SMWCharacterImport_ramstein_no0.rar ------> .... rarf.extractall .... R:\extractTest)
+cd to extracted project folder
+R:\extractTest\SMWCharacterImport_ramstein_no0 exists? True
+find_project_repo_level in R:\extractTest\SMWCharacterImport_ramstein_no0
+frozenset()
+frozenset({'SMWCharacterImport'})
+--- R:\extractTest\SMWCharacterImport_ramstein_no0\SMWCharacterImport : is repo base dir
+git add .
+is_dirty: Changes detected.
+--allow-empty -m "SMWCharacterImport_ramstein_no0.rar" --date "Sat, 20 Feb 2016 01:19:46 +0100"
+
+ 8  /12  ... SMWCharacterImport_ramstein_no1.rar                ... extracting
+rm R:\repoTest -r -e:.git .gitignore
+exclusions: ['.git', '.gitignore']
+exclusions found .git
+exclusions found .gitignore
+filtered_members 560 / 1468 are going to get extracted...
+extract (use_filter=True) R:\SMW-CI-Test\SMWCharacterImport_ramstein_no1.rar ------> .... rarf.extractall .... R:\extractTest)
+cd to extracted project folder
+R:\extractTest\SMWCharacterImport_ramstein_no1 exists? True
+find_project_repo_level in R:\extractTest\SMWCharacterImport_ramstein_no1
+frozenset()
+frozenset({'SMWCharacterImport'})
+--- R:\extractTest\SMWCharacterImport_ramstein_no1\SMWCharacterImport : is repo base dir
+git add .
+is_dirty: Changes detected.
+--allow-empty -m "SMWCharacterImport_ramstein_no1.rar" --date "Sun, 21 Feb 2016 23:01:05 +0100"
+
+ 9  /12  ... SMWCharacterImport_ramstein_no2_improved_tileset_import_andOther.rar ... extracting
+rm R:\repoTest -r -e:.git .gitignore
+exclusions: ['.git', '.gitignore']
+exclusions found .git
+exclusions found .gitignore
+filtered_members 587 / 1482 are going to get extracted...
+extract (use_filter=True) R:\SMW-CI-Test\SMWCharacterImport_ramstein_no2_improved_tileset_import_andOther.rar ------> .... rarf.extractall .... R:\extractTest)
+cd to extracted project folder
+R:\extractTest\SMWCharacterImport_ramstein_no2_improved_tileset_import_andOther exists? True
+find_project_repo_level in R:\extractTest\SMWCharacterImport_ramstein_no2_improved_tileset_import_andOther
+frozenset()
+frozenset({'SMWCharacterImport'})
+--- R:\extractTest\SMWCharacterImport_ramstein_no2_improved_tileset_import_andOther\SMWCharacterImport : is repo base dir
+git add .
+is_dirty: Changes detected.
+--allow-empty -m "SMWCharacterImport_ramstein_no2_improved_tileset_import_andOther.rar" --date "Fri, 26 Feb 2016 13:25:31 +0100"
+
+ 10 /12  ... SMWCharacterImport_ramstein_no3_improved_hazardmanager_IMPORT_BGs.rar ... extracting
+rm R:\repoTest -r -e:.git .gitignore
+exclusions: ['.git', '.gitignore']
+exclusions found .git
+exclusions found .gitignore
+filtered_members 1151 / 2610 are going to get extracted...
+extract (use_filter=True) R:\SMW-CI-Test\SMWCharacterImport_ramstein_no3_improved_hazardmanager_IMPORT_BGs.rar ------> .... rarf.extractall .... R:\extractTest)
+cd to extracted project folder
+R:\extractTest\SMWCharacterImport_ramstein_no3_improved_hazardmanager_IMPORT_BGs exists? True
+find_project_repo_level in R:\extractTest\SMWCharacterImport_ramstein_no3_improved_hazardmanager_IMPORT_BGs
+frozenset()
+frozenset({'SMWCharacterImport'})
+--- R:\extractTest\SMWCharacterImport_ramstein_no3_improved_hazardmanager_IMPORT_BGs\SMWCharacterImport : is repo base dir
+git add .
+is_dirty: Changes detected.
+--allow-empty -m "SMWCharacterImport_ramstein_no3_improved_hazardmanager_IMPORT_BGs.rar" --date "Fri, 26 Feb 2016 16:15:53 +0100"
+
+ 11 /12  ... SMWCharacterImport_ramstein_no4_layer_singletonmanager.rar ... extracting
+rm R:\repoTest -r -e:.git .gitignore
+exclusions: ['.git', '.gitignore']
+exclusions found .git
+exclusions found .gitignore
+filtered_members 1149 / 2640 are going to get extracted...
+extract (use_filter=True) R:\SMW-CI-Test\SMWCharacterImport_ramstein_no4_layer_singletonmanager.rar ------> .... rarf.extractall .... R:\extractTest)
+cd to extracted project folder
+R:\extractTest\SMWCharacterImport_ramstein_no4_layer_singletonmanager exists? True
+find_project_repo_level in R:\extractTest\SMWCharacterImport_ramstein_no4_layer_singletonmanager
+frozenset()
+frozenset({'SMWCharacterImport'})
+--- R:\extractTest\SMWCharacterImport_ramstein_no4_layer_singletonmanager\SMWCharacterImport : is repo base dir
+git add .
+is_dirty: Changes detected.
+--allow-empty -m "SMWCharacterImport_ramstein_no4_layer_singletonmanager.rar" --date "Sun, 28 Feb 2016 02:03:51 +0100"
+
+ 12 /12  ... SMWCharacterImport_ramstein_no5_ZERO_warning.rar   ... extracting
+rm R:\repoTest -r -e:.git .gitignore
+exclusions: ['.git', '.gitignore']
+exclusions found .git
+exclusions found .gitignore
+filtered_members 1148 / 2605 are going to get extracted...
+extract (use_filter=True) R:\SMW-CI-Test\SMWCharacterImport_ramstein_no5_ZERO_warning.rar ------> .... rarf.extractall .... R:\extractTest)
+cd to extracted project folder
+R:\extractTest\SMWCharacterImport_ramstein_no5_ZERO_warning exists? True
+find_project_repo_level in R:\extractTest\SMWCharacterImport_ramstein_no5_ZERO_warning
+frozenset()
+frozenset({'SMWCharacterImport'})
+--- R:\extractTest\SMWCharacterImport_ramstein_no5_ZERO_warning\SMWCharacterImport : is repo base dir
+git add .
+is_dirty: Changes detected.
+--allow-empty -m "SMWCharacterImport_ramstein_no5_ZERO_warning.rar" --date "Mon, 29 Feb 2016 14:43:05 +0100"
+gitcmds
+repo.git.add(A=True)
+repo.git.commit (git commit) --allow-empty -m "SMWCharacterImport_before_new_algo.rar" --date "Tue, 09 Feb 2016 22:08:49 +0100"
+repo.git.add(A=True)
+repo.git.commit (git commit) --allow-empty -m "SMWCharacterImport_ChangeColor_works(pngNamingBug).rar" --date "Tue, 09 Feb 2016 23:45:17 +0100"
+repo.git.add(A=True)
+repo.git.commit (git commit) --allow-empty -m "SMWCharacterImport_struktured.rar" --date "Wed, 17 Feb 2016 18:57:11 +0100"
+repo.git.add(A=True)
+repo.git.commit (git commit) --allow-empty -m "SMWCharacterImport_CleanUp+Enhancement.rar" --date "Wed, 17 Feb 2016 21:15:25 +0100"
+repo.git.add(A=True)
+repo.git.commit (git commit) --allow-empty -m "SMWCharacterImport_ReadyToMigrateInRealProject.rar" --date "Wed, 17 Feb 2016 23:27:21 +0100"
+repo.git.add(A=True)
+repo.git.commit (git commit) --allow-empty -m "SMWCharacterImport_NamingFix_Tileset+Map_Migration.rar" --date "Thu, 18 Feb 2016 03:36:36 +0100"
+repo.git.add(A=True)
+repo.git.commit (git commit) --allow-empty -m "SMWCharacterImport_ramstein_no0.rar" --date "Sat, 20 Feb 2016 01:19:46 +0100"
+repo.git.add(A=True)
+repo.git.commit (git commit) --allow-empty -m "SMWCharacterImport_ramstein_no1.rar" --date "Sun, 21 Feb 2016 23:01:05 +0100"
+repo.git.add(A=True)
+repo.git.commit (git commit) --allow-empty -m "SMWCharacterImport_ramstein_no2_improved_tileset_import_andOther.rar" --date "Fri, 26 Feb 2016 13:25:31 +0100"
+repo.git.add(A=True)
+repo.git.commit (git commit) --allow-empty -m "SMWCharacterImport_ramstein_no3_improved_hazardmanager_IMPORT_BGs.rar" --date "Fri, 26 Feb 2016 16:15:53 +0100"
+repo.git.add(A=True)
+repo.git.commit (git commit) --allow-empty -m "SMWCharacterImport_ramstein_no4_layer_singletonmanager.rar" --date "Sun, 28 Feb 2016 02:03:51 +0100"
+repo.git.add(A=True)
+repo.git.commit (git commit) --allow-empty -m "SMWCharacterImport_ramstein_no5_ZERO_warning.rar" --date "Mon, 29 Feb 2016 14:43:05 +0100"
+projects equal
+extraction_destination_respective_repo_root_path
+         path = R:\extractTest\SMWCharacterImport_before_new_algo\SMWCharacterImport
+         path = R:\extractTest\SMWCharacterImport_ChangeColor_works(pngNamingBug)\SMWCharacterImport
+         path = R:\extractTest\SMWCharacterImport_struktured\SMWCharacterImport
+         path = R:\extractTest\SMWCharacterImport_CleanUp+Enhancement\SMWCharacterImport
+         path = R:\extractTest\SMWCharacterImport_ReadyToMigrateInRealProject\SMWCharacterImport
+         path = R:\extractTest\SMWCharacterImport_NamingFix_Tileset+Map_Migration\SMWCharacterImport
+         path = R:\extractTest\SMWCharacterImport_ramstein_no0\SMWCharacterImport
+         path = R:\extractTest\SMWCharacterImport_ramstein_no1\SMWCharacterImport
+         path = R:\extractTest\SMWCharacterImport_ramstein_no2_improved_tileset_import_andOther\SMWCharacterImport
+         path = R:\extractTest\SMWCharacterImport_ramstein_no3_improved_hazardmanager_IMPORT_BGs\SMWCharacterImport
+         path = R:\extractTest\SMWCharacterImport_ramstein_no4_layer_singletonmanager\SMWCharacterImport
+         path = R:\extractTest\SMWCharacterImport_ramstein_no5_ZERO_warning\SMWCharacterImport
+
+C:\dev\SMW-repo-builder>
